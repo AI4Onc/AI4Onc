@@ -19,6 +19,8 @@
 # Contact
 * Address: Department of Radiation Oncology, Wake Forest University School of Medicine
 * Email: yumjiang at wakehealth dot edu
+# Note
+This page was updated on Nov 15 2024, by @luoxd1996. If you have any questions, please reach out to [Prof. Yuming](https://jiangymbest.github.io).
 <!--
 **AI4Onc/AI4Onc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
