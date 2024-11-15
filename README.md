@@ -1,6 +1,6 @@
 ## Welcome to the AI for Oncology Lab in Wake Forest University hosted by Prof. Jiang ([Scholar](https://scholar.google.com/citations?user=FxBBKhoAAAAJ&hl=en), [Home](https://jiangymbest.github.io/)).
 
-## Research topic
+## Research topics
 * Cancer imaging
 * Oncology treatment
 * Artificial intelligence
