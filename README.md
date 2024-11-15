@@ -1,10 +1,10 @@
 ## AI4Onc@WakeForest
 **Welcome to the AI for Oncology Lab in Wake Forest University hosted by Prof. Jiang ([Scholar](https://scholar.google.com/citations?user=FxBBKhoAAAAJ&hl=en), [Home](https://jiangymbest.github.io/)).** **Here, we will release all open-access research (we did in Wake Forest) to foster growth and innovation within the community. Please follow us✨✨✨.**
 # Research topics
-* Cancer imaging
-* Oncology treatment
-* Artificial intelligence
-* Survival and prognosis analysis
+* **Cancer imaging**
+* **Oncology treatment**
+* **Artificial intelligence**
+* **Survival and prognosis analysis**
 # Highlight works
 * Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics
 , [**Cell Reports Medicine, 2023**](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9?uuid=uuid%3Ab476eeee-c6b6-4e48-b33b-d92c97d8b627).
