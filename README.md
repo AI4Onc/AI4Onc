@@ -14,6 +14,11 @@
 * Noninvasive imaging evaluation of tumor immune microenvironment to predict outcomes in gastric cancer, [**Annals of Oncology, 2020**](https://www.sciencedirect.com/science/article/pii/S0923753420363821).
 * ImmunoScore signature: a prognostic and predictive tool in gastric cancer, [**Annals of Surgery, 2018**](https://journals.lww.com/annalsofsurgery/abstract/2018/03000/immunoscore_signature__a_prognostic_and_predictive.20.aspx).
 * Association of adjuvant chemotherapy with survival in patients with stage II or III gastric cancer, [**JAMA of Surgery, 2017**](https://jamanetwork.com/journals/jamasurgery/fullarticle/2627289).
+## We are hiring 
+We have Postdoc/RA openings in multimodal learning and medical image analysis. Please contact me if you are interested in this opportunity ([Details](https://www.linkedin.com/jobs/view/3844894965/?refId=a2pwnSbeRzuJ0lO%2BFxrO5g%3D%3D&trackingId=a2pwnSbeRzuJ0lO%2BFxrO5g%3D%3D)).
+## Contact
+Address: Department of Radiation Oncology, Wake Forest University School of Medicine
+Email: yumjiang at wakehealth dot edu
 <!--
 **AI4Onc/AI4Onc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
