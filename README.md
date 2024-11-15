@@ -1,11 +1,11 @@
-## Welcome to the AI for Oncology Lab in Wake Forest University hosted by Prof. Jiang ([Scholar](https://scholar.google.com/citations?user=FxBBKhoAAAAJ&hl=en), [Home](https://jiangymbest.github.io/)).
-
-## Research topics
+## AI4Onc@WakeForest
+**Welcome to the AI for Oncology Lab in Wake Forest University hosted by Prof. Jiang ([Scholar](https://scholar.google.com/citations?user=FxBBKhoAAAAJ&hl=en), [Home](https://jiangymbest.github.io/)).** **Here, we will release all open-access research (we did in Wake Forest) to foster growth and innovation within the community. Please follow us.**
+# Research topics
 * Cancer imaging
 * Oncology treatment
 * Artificial intelligence
 * Survival and prognosis analysis
-## Highlight works
+# Highlight works
 * Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics
 , [**Cell Reports Medicine, 2023**](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9?uuid=uuid%3Ab476eeee-c6b6-4e48-b33b-d92c97d8b627).
 * Biology-guided deep learning predicts prognosis and cancer immunotherapy response, [**Nature Communations, 2023**](https://www.nature.com/articles/s41467-023-40890-x).
@@ -14,9 +14,9 @@
 * Noninvasive imaging evaluation of tumor immune microenvironment to predict outcomes in gastric cancer, [**Annals of Oncology, 2020**](https://www.sciencedirect.com/science/article/pii/S0923753420363821).
 * ImmunoScore signature: a prognostic and predictive tool in gastric cancer, [**Annals of Surgery, 2018**](https://journals.lww.com/annalsofsurgery/abstract/2018/03000/immunoscore_signature__a_prognostic_and_predictive.20.aspx).
 * Association of adjuvant chemotherapy with survival in patients with stage II or III gastric cancer, [**JAMA of Surgery, 2017**](https://jamanetwork.com/journals/jamasurgery/fullarticle/2627289).
-## We are hiring 
+# We are hiring 
 * We have Postdoc/RA openings in multimodal learning and medical image analysis. Please contact me if you are interested in this opportunity ([Details](https://www.linkedin.com/jobs/view/3844894965/?refId=a2pwnSbeRzuJ0lO%2BFxrO5g%3D%3D&trackingId=a2pwnSbeRzuJ0lO%2BFxrO5g%3D%3D)).
-## Contact
+# Contact
 * Address: Department of Radiation Oncology, Wake Forest University School of Medicine
 * Email: yumjiang at wakehealth dot edu
 <!--
