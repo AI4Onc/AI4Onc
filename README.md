@@ -1,5 +1,5 @@
 ## AI4Onc@WakeForest
-**Welcome to the AI for Oncology Lab in Wake Forest University hosted by Prof. Jiang ([Scholar](https://scholar.google.com/citations?user=FxBBKhoAAAAJ&hl=en), [Home](https://jiangymbest.github.io/)).** **Here, we will release all open-access research (we did in Wake Forest) to foster growth and innovation within the community. Please follow us.**
+**Welcome to the AI for Oncology Lab in Wake Forest University hosted by Prof. Jiang ([Scholar](https://scholar.google.com/citations?user=FxBBKhoAAAAJ&hl=en), [Home](https://jiangymbest.github.io/)).** **Here, we will release all open-access research (we did in Wake Forest) to foster growth and innovation within the community. Please follow us✨✨✨.**
 # Research topics
 * Cancer imaging
 * Oncology treatment
