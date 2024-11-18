@@ -6,6 +6,7 @@
 * **Artificial intelligence**
 * **Survival and prognosis analysis**
 # Highlight works
+* Comprehensive assessment of immune context and immunotherapy response via noninvasive imaging in gastric cancer, [**Journal of Clinical Investigation, 2024**]([https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9?uuid=uuid%3Ab476eeee-c6b6-4e48-b33b-d92c97d8b627](https://www.jci.org/articles/view/175834)).
 * Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics
 , [**Cell Reports Medicine, 2023**](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9?uuid=uuid%3Ab476eeee-c6b6-4e48-b33b-d92c97d8b627).
 * Biology-guided deep learning predicts prognosis and cancer immunotherapy response, [**Nature Communations, 2023**](https://www.nature.com/articles/s41467-023-40890-x).
