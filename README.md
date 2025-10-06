@@ -23,7 +23,7 @@
 * We have Postdoc/RA openings in multimodal learning and medical image analysis. Please contact me if you are interested in this opportunity ([Details](https://www.linkedin.com/jobs/view/3844894965/?refId=a2pwnSbeRzuJ0lO%2BFxrO5g%3D%3D&trackingId=a2pwnSbeRzuJ0lO%2BFxrO5g%3D%3D)).
 # Contact
 * Address: Department of Radiation Oncology, Wake Forest University School of Medicine
-* Email: yumjiang at wakehealth dot edu
+* Email: yuming.jiang at wfusm dot edu
 # Note
 This page was updated on Nov 15 2024, by @luoxd1996. If you have any questions, please reach out to [Prof. Yuming](https://jiangymbest.github.io).
 <!--
