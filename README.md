@@ -6,6 +6,8 @@
 * **Artificial intelligence**
 * **Survival and prognosis analysis**
 # Highlight works
+* TME-guided deep learning predicts chemotherapy and immunotherapy response in gastric cancer with attention-enhanced residual Swin Transformer, [**Cell Reports Medicine, 2025**](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00315-5).
+* Automated cell annotation and classification on histopathology for spatial biomarker discovery, [**Nature Communications, 2025**](https://www.nature.com/articles/s41467-025-61349-1).
 * Comprehensive assessment of immune context and immunotherapy response via noninvasive imaging in gastric cancer, [**Journal of Clinical Investigation, 2024**](https://www.jci.org/articles/view/175834).
 * Foundation Model for Predicting Prognosis and Adjuvant Therapy Benefit From Digital Pathology in GI Cancers, [**Journal of Clinical Oncology, 2025**](https://ascopubs.org/doi/full/10.1200/JCO-24-01501).
 * Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics
